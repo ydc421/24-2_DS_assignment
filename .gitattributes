@@ -1,0 +1,7 @@
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+week1/ViT_for_finance/ETF/strategy/01/TrainData/x_KRW-BTC. filter=lfs diff=lfs merge=lfs -text
+week1/ViT_for_finance/ETF/strategy/01/TrainData/x_KRW-BTC.npy filter=lfs diff=lfs merge=lfs -text
+week1/ViT_for_finance/ETF/strategy/01/TrainData/y_KRW-BTC.npy filter=lfs diff=lfs merge=lfs -text
+*.npy
+ filter=lfs diff=lfs merge=lfs -text
